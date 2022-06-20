@@ -17,7 +17,7 @@
 <li>
 All code found in this Organization is private property and as such, 
 you may not Fork, Redistribute or Disseminate any portion of it unless stated otherwise and is bound by the <a href="shorturl.at/glC56" _target="blank">
-Intellectual Property Laws Amendment Act 28 of 2013. </a> Failure to comply may contitute a <a href="shorturl.at/itvOU" _target="blank">Copyright Infrigement.</a>
+Intellectual Property Laws Amendment Act 28 of 2013. </a> Failure to comply may constitute a <a href="shorturl.at/itvOU" _target="blank">Copyright Infrigement.</a>
 </li>
 
 <li>
