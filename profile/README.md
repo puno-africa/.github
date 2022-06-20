@@ -15,6 +15,10 @@
 <ol>
   
 <li>
+ Hi there :) This is a Corporate GitHub Account. Only Members of the Organization have access to all the Repositories. If you would like to become a contributor send an email to vance@punogreenery.co.za. 
+</li>
+ 
+<li>
 All code found in this Organization is private property and as such, 
 you may not Fork, Redistribute or Disseminate any portion of it unless stated otherwise and is bound by the <a href="shorturl.at/glC56" _target="blank">
 Intellectual Property Laws Amendment Act 28 of 2013. </a> Failure to comply may constitute a <a href="shorturl.at/itvOU" _target="blank">Copyright Infrigement.</a>
