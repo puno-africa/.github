@@ -49,7 +49,8 @@ Intellectual Property Laws Amendment Act 28 of 2013. </a> Failure to comply may 
 <!--Badges-->
 <p><strong>Badges</strong></p>
 
-![Number of Contributors](https://img.shields.io/github/contributors/Puno-Pty-Ltd/.github)
+![Twitter Followers](https://img.shields.io/twitter/follow/PUNO_PTYLTD?style=social)
+  
 
 </body>
 
