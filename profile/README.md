@@ -8,7 +8,7 @@
 
  <body style="font-style:Montserrat">
     
-🙋‍♀️ <p><strong>A short introduction</strong></p> Puno Pty(Ltd) is an Agritech Solution for small scale farmers and investors. Puno Exists to drive small scale farmers into commercialization because the future of the African economy, a sustainable future that is, lies in exporting less, distributing our food resources better(throwing away less food). We are building African small scale farmers, 1 farmer at a time, to create a more sustainable Africa. <br> <a href="https://www.punogreenery.co.za/#who" _target="blank">Learn More About Us Here</a>
+🙋‍♀️ <p><strong>A short introduction</strong></p> Puno is an Agritech Solution for small scale farmers and investors. Puno Exists to drive small scale farmers into commercialization because the future of the African economy, a sustainable future that is, lies in exporting less, distributing our food resources better(throwing away less food). We are building African small scale farmers, 1 farmer at a time, to create a more sustainable Africa. <br> <a href="https://www.punogreenery.co.za/#who" _target="blank">Learn More About Us Here</a>
 <hr>
 
 🌈 <p><strong>Contribution guidelines</strong></p> 
